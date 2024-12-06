@@ -22,7 +22,7 @@ sudo git clone https://github.com/AKOWAKOU/vCard.git
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/vCard.git
+git clone https://github.com/AKOWAKOU/vCard.git
 ```
 
 ## Contact
